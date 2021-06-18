@@ -1,0 +1,2 @@
+# Heart-Disease-Prediction-Using-ML
+Heart disease is one of the most significant causes of mortality in the world today. Prediction of cardiovascular disease is a critical challenge in the area of clinical data analysis. Machine learning (ML) has been shown to be effective in assisting in making decisions and predictions from the large quantity of data produced by the health care industry. So, in this project we will attempt to predict Cardio Vascular disease using Hybrid machine learning algorithms with the highest accuracy.
